@@ -5,6 +5,6 @@ const SETTINGS = [
         "user"      => "root",
         "password"  => "root",
         "host"      => "localhost",
-        "name"      => "funnygames"
+        "name"      => "todoapp"
     ]
 ];
